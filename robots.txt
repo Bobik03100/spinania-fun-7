@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://spinania-fun-7.vercel.app/sitemap.xml
+Sitemap: https://spinania-fun-7-brown.vercel.app/sitemap.xml
